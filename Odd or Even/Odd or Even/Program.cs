@@ -1,6 +1,6 @@
 ﻿using System;
 
-int number;
+double number;
 
 Console.WriteLine("Input a number: ");
 
